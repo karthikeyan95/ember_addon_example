@@ -1,6 +1,8 @@
 /* eslint-env node */
 'use strict';
+const EngineAddon = require('ember-engines/lib/engine-addon');
 
-module.exports = {
-  name: 'external-admin'
-};
+module.exports = EngineAddon.extend({
+  name: 'external-admin',
+  lazyLoading: true
+});
