@@ -4,7 +4,7 @@ This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/karthikeyan95/ember_addon_example.git` this repository
 * `cd external-admin`
 * `npm install`
 
